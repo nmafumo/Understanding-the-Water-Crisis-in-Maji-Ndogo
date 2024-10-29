@@ -1,6 +1,6 @@
 # Understanding-the-Water-Crisis-in-Maji-Ndogo
 
-This project tackles a pressing global issue: water scarcity. It leverages a dataset of 60,000 records, meticulously compiled by a team of experts. This data serves as a key piece of evidence to understand the complexities of a real-world water crisis. By analysing this data, the project aims to identify effective solutions to alleviate the suffering caused by water scarcity. 
+This project aims to address the pressing issue of water scarcity in Maji Ndogo.Maji Ndogo, a fictional country that mirrors real-world challenges.To achieve this goal, we have analyzed a comprehensive dataset of 60,000 records. By employing a rigorous data-driven approach, we seek to gain valuable insights into the root causes of the crisis and identify potential solutions. 
 
 We used two distinct approaches to address this problem: SQL for data analysis and Power BI for visualisation 
 
